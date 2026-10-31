@@ -1,0 +1,13 @@
+{
+  "images_in_train_json": 118287,
+  "audited_pool_size": 10500,
+  "missing_file": 0,
+  "missing_caption": 0,
+  "corrupted": 0,
+  "exact_duplicates_removed": 0,
+  "valid_unique_in_pool": 10500,
+  "kept_for_knowledge_base": 10000,
+  "target_knowledge_base_size": 10000,
+  "reached_target": true,
+  "note": "Duplicates are byte-identical files (SHA-256); first copy kept. Near-duplicates (resized/recompressed) are checked later with CLIP embeddings."
+}

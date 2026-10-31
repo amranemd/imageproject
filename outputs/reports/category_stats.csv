@@ -1,0 +1,81 @@
+category,supercategory,images_containing,total_objects
+person,person,5382,22631
+chair,furniture,1109,3315
+car,vehicle,1041,3647
+dining table,furniture,1034,1396
+cup,kitchen,822,1911
+bottle,kitchen,714,2060
+bowl,kitchen,626,1247
+handbag,accessory,599,1051
+truck,vehicle,529,857
+bench,outdoor,482,880
+backpack,accessory,476,774
+book,indoor,420,1898
+cell phone,electronic,408,518
+sink,appliance,401,467
+potted plant,furniture,399,705
+tv,electronic,394,494
+sports ball,sports,391,589
+clock,indoor,382,499
+traffic light,outdoor,367,1116
+dog,animal,366,471
+couch,furniture,365,490
+bus,vehicle,352,543
+cat,animal,348,400
+knife,kitchen,347,637
+tie,accessory,314,562
+vase,indoor,312,565
+spoon,kitchen,311,539
+motorcycle,vehicle,310,733
+umbrella,accessory,310,836
+tennis racket,sports,307,441
+bed,furniture,306,331
+train,vehicle,300,380
+toilet,furniture,295,335
+fork,kitchen,289,460
+laptop,electronic,287,421
+skateboard,sports,284,491
+surfboard,sports,282,465
+remote,electronic,273,553
+skis,sports,267,644
+bicycle,vehicle,260,636
+pizza,food,259,504
+bird,animal,257,971
+cake,food,254,567
+horse,animal,250,541
+oven,appliance,245,287
+boat,vehicle,243,884
+baseball bat,sports,242,296
+airplane,vehicle,242,383
+baseball glove,sports,234,318
+wine glass,kitchen,215,672
+refrigerator,appliance,214,232
+sandwich,food,214,394
+suitcase,accessory,208,580
+banana,food,201,776
+giraffe,animal,200,389
+teddy bear,indoor,190,438
+frisbee,sports,188,230
+keyboard,electronic,171,221
+broccoli,food,169,603
+cow,animal,166,643
+orange,food,161,567
+elephant,animal,161,398
+stop sign,outdoor,160,175
+kite,sports,160,650
+fire hydrant,outdoor,154,164
+zebra,animal,153,497
+mouse,electronic,151,194
+apple,food,145,526
+snowboard,sports,141,261
+donut,food,139,545
+carrot,food,138,652
+sheep,animal,138,869
+microwave,appliance,137,148
+hot dog,food,104,259
+scissors,indoor,82,123
+bear,animal,82,116
+toothbrush,indoor,78,147
+parking meter,outdoor,60,110
+hair drier,indoor,19,21
+toaster,appliance,18,18

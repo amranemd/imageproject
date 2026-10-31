@@ -1,0 +1,12 @@
+{
+  "embedding_model": "openai/clip-vit-base-patch32 (L2-normalised, dim 512)",
+  "index_type": "faiss.IndexFlatIP (exact cosine search)",
+  "image_vectors": 10000,
+  "caption_vectors": 50024,
+  "sanity_image_finds_itself_top1": 1.0,
+  "sanity_image_to_own_caption_recall_at_5": 0.648,
+  "near_duplicate_threshold": 0.95,
+  "near_duplicate_pairs_in_knowledge_base": 34,
+  "test_images_too_similar_to_knowledge_base": 1,
+  "test_highest_similarity_to_knowledge_base": 0.9539446234703064
+}

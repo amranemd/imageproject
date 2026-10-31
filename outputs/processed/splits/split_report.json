@@ -1,0 +1,11 @@
+{
+  "knowledge_base_images": 10000,
+  "validation_images": 100,
+  "test_images": 100,
+  "validation_is_subset_of_knowledge_base": true,
+  "test_ids_overlap_with_knowledge_base": 0,
+  "test_exact_duplicate_files_in_knowledge_base": 0,
+  "test_candidates_rejected_corrupted": 0,
+  "random_seed": 42,
+  "note": "Validation images stay in the knowledge base; during validation, exclude the query image itself from retrieval. Test images come from COCO val2017."
+}
