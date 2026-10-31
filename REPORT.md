@@ -88,7 +88,7 @@ Using CLIP cosine similarity with a threshold of 0.95:
 - 34 pairs of near-similar images were found inside the knowledge base (listed in
   `outputs/faiss/near_duplicates_in_kb.csv`). They were kept, because similar scenes are normal in COCO.
 - 1 test image has a similarity of 0.954 to a knowledge-base image (the highest among the 100 test images).
-  Manual check: **[TO FILL: write what you saw when you opened both images, and whether you kept or replaced it]**
+  Manual check: Manual check: the two images were compared visually. They are different photographs of a very similar scene (same animals, environment and postures), probably taken in the same session. The test image was kept, since it is 1 of 100 test images, and this is noted as a limitation: results on this image may be slightly optimistic.
 
 ## 6. Assumptions to confirm
 
